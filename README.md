@@ -150,10 +150,8 @@ If you use Restormer, please consider citing:
 
 
 ## Contact
-Should you have any question, please contact waqas.zamir@inceptioniai.org
+Should you have any question, please contact ikedahiroshi1201@gmail.com
 
-
-**Acknowledgment:** This code is based on the [BasicSR](https://github.com/xinntao/BasicSR) toolbox and [HINet](https://github.com/megvii-model/HINet). 
 
 ## Our Related Works
 - Learning Enriched Features for Fast Image Restoration and Enhancement, TPAMI 2022. [Paper](https://www.waqaszamir.com/publication/zamir-2022-mirnetv2/) | [Code](https://github.com/swz30/MIRNetv2)
