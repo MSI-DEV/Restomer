@@ -150,7 +150,7 @@ If you use Restormer, please consider citing:
 
 
 ## Contact
-Should you have any question, please contact ikedahiroshi1201@gmail.com
+Should you have any question, please contact murayamagenji394@gmail.com
 
 
 ## Our Related Works
